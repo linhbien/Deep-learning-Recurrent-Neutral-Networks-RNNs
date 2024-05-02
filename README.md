@@ -7,3 +7,6 @@ TensorFlow is a software library extensively used in machine learning. TensorFlo
 Part 2: Music generation using RRNs
 
 Recurrent Neural Network (RNN) will be applied for music generation. A model will be trained to learn the patterns in raw sheet music in ABC notation and generate new music.
+
+Part 3: Results
+
